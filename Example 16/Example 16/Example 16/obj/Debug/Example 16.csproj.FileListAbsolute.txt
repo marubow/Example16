@@ -1,0 +1,10 @@
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\obj\Debug\Example 16.csprojAssemblyReference.cache
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\obj\Debug\Example_16.Form1.resources
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\obj\Debug\Example_16.Properties.Resources.resources
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\obj\Debug\Example 16.csproj.GenerateResource.cache
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\obj\Debug\Example 16.csproj.CoreCompileInputs.cache
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\bin\Debug\Example 16.exe.config
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\bin\Debug\Example 16.exe
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\bin\Debug\Example 16.pdb
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\obj\Debug\Example 16.exe
+H:\2020\Visual C# RF\Example 16\Example 16\Example 16\obj\Debug\Example 16.pdb
