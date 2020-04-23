@@ -1,0 +1,10 @@
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\bin\Debug\Example18 nextof16.exe.config
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\bin\Debug\Example18 nextof16.exe
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\bin\Debug\Example18 nextof16.pdb
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\obj\Debug\Example18 nextof16.csprojAssemblyReference.cache
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\obj\Debug\Example18_nextof16.Form1.resources
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\obj\Debug\Example18_nextof16.Properties.Resources.resources
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\obj\Debug\Example18 nextof16.csproj.GenerateResource.cache
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\obj\Debug\Example18 nextof16.csproj.CoreCompileInputs.cache
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\obj\Debug\Example18 nextof16.exe
+H:\2020\Visual C# RF\Example18 nextof16\Example18 nextof16\Example18 nextof16\obj\Debug\Example18 nextof16.pdb
